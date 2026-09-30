@@ -51,6 +51,7 @@ This portfolio features comprehensive digital experiences designed to bridge use
 ### 🌐 Project 2 – Chatbot Prototype
 
 <img width="986" height="622" alt="image" src="https://github.com/user-attachments/assets/fc118e4a-33bf-4d55-8617-f61cfee26dd8" />
+
 **Overview:** A chatbot UI prototype designed in Figma with a clean and interactive interface, focusing on smooth conversations, intuitive navigation, and an easy-to-use user experience.
 
 🔗 [View Figma Design](https://www.figma.com/proto/j7UtGfInCygxrjAzv7uLG2/Task-1?node-id=53-40&p=f&t=7wqVTmkPIEu3JZex-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=53%3A40)
@@ -60,6 +61,7 @@ This portfolio features comprehensive digital experiences designed to bridge use
 ### 🌐 Project 3 – Dashboard Prototype
 
 <img width="970" height="614" alt="image" src="https://github.com/user-attachments/assets/50ef1f1d-f51a-4e25-9ac0-2fac0a817e56" />
+
 **Overview:** A business dashboard prototype designed in Figma to present important business data, insights, and performance metrics through a clean, organized, and user-friendly interface.
 
 🔗 [View Figma Design](https://www.figma.com/proto/odYjwop5aM5SmRvAg51WGG/project_1?t=i4AqwOASswVPpS53-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=2-6)
