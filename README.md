@@ -41,6 +41,7 @@ This portfolio features comprehensive digital experiences designed to bridge use
 ### 🌐 Project 1 – Home Wall Painting Appointment App Prototype
 
 <img width="288" height="579" alt="image" src="https://github.com/user-attachments/assets/44bc54df-972f-46ad-bcab-20fa3f945d3e" />
+
 **Overview:** A Figma prototype for a home wall painting appointment application, designed to help users explore painting services, select their requirements, choose a suitable date and time, and book an appointment through a simple and intuitive interface.
 
 🔗 [View Figma Design](https://www.figma.com/proto/38PaIS2B9Oo5w4V1DmJedl/LYKKEBO_task1.1?node-id=1-3&p=f&t=RD6AQ01URAUj0cBE-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
